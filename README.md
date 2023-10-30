@@ -28,6 +28,6 @@
 * We strongly encourage you to work together on test cases, so that you don’t miss any edge cases
 
 
-### Done by 
+## Done by 
 * Mpho Matli
 * Adele Aboaba
